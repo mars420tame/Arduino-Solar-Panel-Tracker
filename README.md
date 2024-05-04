@@ -1,3 +1,4 @@
+ ![](/connection.png)
 # Arduino-Solar-Panel-Tracker
 Arduino Solar Panel Tracker
 This project is an Arduino-based solar panel tracker that adjusts the position of a solar panel to maximize its exposure to sunlight throughout the day.
